@@ -137,3 +137,4 @@ elif choice == "9":
     time.sleep(2)
     pyautogui.write("https://uk.wikipedia.org/", interval = 0.1)
     pyautogui.press("enter")
+    #coment
